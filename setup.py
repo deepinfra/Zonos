@@ -22,7 +22,6 @@ setup(
         'transformers>=4.48.1',
         'soundfile>=0.13.1',
         'huggingface-hub>=0.28.1',
-        'gradio>=5.15.0',
     ],
     extras_require={
         'compile': [
